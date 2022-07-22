@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Seema111.github.io-memory-game/static/css/main.073c9b0a.css",
-    "main.js": "/Seema111.github.io-memory-game/static/js/main.8548116b.js",
-    "static/js/787.69b12325.chunk.js": "/Seema111.github.io-memory-game/static/js/787.69b12325.chunk.js",
-    "index.html": "/Seema111.github.io-memory-game/index.html",
-    "main.073c9b0a.css.map": "/Seema111.github.io-memory-game/static/css/main.073c9b0a.css.map",
-    "main.8548116b.js.map": "/Seema111.github.io-memory-game/static/js/main.8548116b.js.map",
-    "787.69b12325.chunk.js.map": "/Seema111.github.io-memory-game/static/js/787.69b12325.chunk.js.map"
+    "main.css": "/memory-game/static/css/main.073c9b0a.css",
+    "main.js": "/memory-game/static/js/main.c7444ced.js",
+    "static/js/787.69b12325.chunk.js": "/memory-game/static/js/787.69b12325.chunk.js",
+    "index.html": "/memory-game/index.html",
+    "main.073c9b0a.css.map": "/memory-game/static/css/main.073c9b0a.css.map",
+    "main.c7444ced.js.map": "/memory-game/static/js/main.c7444ced.js.map",
+    "787.69b12325.chunk.js.map": "/memory-game/static/js/787.69b12325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8548116b.js"
+    "static/js/main.c7444ced.js"
   ]
 }
